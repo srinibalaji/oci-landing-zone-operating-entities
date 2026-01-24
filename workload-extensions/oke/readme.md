@@ -10,14 +10,14 @@ The OKE Landing Zone Extension is a secure cloud environment, designed with the 
 
 Currently two options are available
 
-- [**Simple (single-stack) OKE deployment**](./single-stack) - 1 OKE Cluster in production environment using a single-stack configuration.
-- [**Complete (multi-stack) OKE deployment**](./multi-stack) - 3 OKE Clusters in prod, pre-prod and management environments using a multi-stack configuration. 
+- [**Simple OKE deployment**](./simple) - 1 OKE Cluster in production environment using a simple configuration.
+- [**Advanced OKE deployment**](./advanced) - 3 OKE Clusters in prod, pre-prod and management environments using an advanced configuration. 
 
 &nbsp;
 
 ## License <!-- omit from toc -->
 
-Copyright (c) 2025 Oracle and/or its affiliates.
+Copyright (c) 2026 Oracle and/or its affiliates.
 
 Licensed under the Universal Permissive License (UPL), Version 1.0.
 
