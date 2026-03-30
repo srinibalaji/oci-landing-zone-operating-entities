@@ -22,6 +22,8 @@ Whether you're exploring OCI landing zones for the first time, deciding which bl
 - [G5. Does the landing zone comply with security best practices?](./faq_general.md/#g5-does-the-landing-zone-comply-with-security-best-practices)
 - [G6. What are the infrastructure costs when deploying an OCI Landing Zone?](./faq_general.md/#g6-what-are-the-infrastructure-costs-when-deploying-an-oci-landing-zone)
 - [G7. What is an OCI Sovereign Landing zone?](./faq_general.md/#g7-what-is-an-oci-sovereign-landing-zone)
+- [G8. What are the most common bad practices that you’ve seen?](./faq_general.md/#g8-what-are-the-most-common-bad-practices-that-youve-seen)
+
 
 </td>
 </tr>
@@ -40,6 +42,18 @@ Whether you're exploring OCI landing zones for the first time, deciding which bl
 - [D5. Which HUB models are included in the Operating Entities LZ blueprints?](./faq_design.md/#d5-which-hub-models-are-included-in-the-operating-entities-lz-blueprints)
 - [D6. Can I migrate from one blueprint model to another?](./faq_design.md/#d6-can-i-migrate-from-one-blueprint-model-to-another)
 - [D7. Can I customize the blueprints for my specific requirements?](./faq_design.md/#d7-can-i-customize-the-blueprints-for-my-specific-requirements)
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 📜 [Decisions](./faq_decisions.md)
+
+**Why there is something rather than nothing**
+
+- [View 20+ 'Why' Questions on key technical decisions](./faq_decisions.md)
 
 </td>
 </tr>

@@ -1,4 +1,4 @@
-local cis1 = import 'oneoe_security_cis1.auto.tfvars.jsonnet';
+local cis1 = import 'oneoe_security_cis1.jsonnet';
 
 cis1 {
   security_zones_configuration+: {
@@ -29,4 +29,3 @@ cis1 {
     },
   },
 }
-

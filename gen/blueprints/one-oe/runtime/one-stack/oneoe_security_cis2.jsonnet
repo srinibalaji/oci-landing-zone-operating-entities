@@ -1,6 +1,6 @@
-local cis1 = import 'oneoe_security_cis1.auto.tfvars.jsonnet';
+local cis2 = import 'oneoe_security_cis2_pre.jsonnet';
 
-cis1 {
+cis2 {
   security_zones_configuration+: {
     security_zones+: {
       'SZ-TGT-LZ-SHARED-NETWORK-KEY': {
@@ -21,4 +21,3 @@ cis1 {
     },
   },
 }
-
